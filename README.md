@@ -1,6 +1,6 @@
 # Vue2 & Cordova featuring development environment
 
-Use cordova & Vue2 to make Android & iOS applications, featuring flexible development environment
+Use cordova & Vue2 to make Android & iOS applications, featuring flexible development environment where you build upon file change.
 
 ## Environment
 
